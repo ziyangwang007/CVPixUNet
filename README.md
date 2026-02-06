@@ -1,8 +1,6 @@
 # CVPixUNet
 Rethinking U-Shape Segmentation Network: Towards CNN- \&amp; ViT-based Hybrid Network with Dynamic Adaptive Pixel-Level Feature Learning for Retinal Vessel Segmentation
 
-(Under Review)
-
 
 ## Motivation
 <img src="img/demodata.png">
@@ -48,4 +46,6 @@ python val.py
 
 ## Reference
 
-Under Review
+Ziyang Wang, Mian Wu. "Rethinking Hybrid U-Shape Network with Pixel-Level Feature Learning for Retinal Vessel Segmentation." IEEE Access (2026).
+
+
